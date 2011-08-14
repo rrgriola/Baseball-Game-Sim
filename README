@@ -1,0 +1,30 @@
+This is a Baseball Game Sim developed with love and care starting in 2008. It has evolved from C++ to java and is currently the backbone app for Baseballczar.com
+
+Developed by Rod Griola over many hours. 
+#rodgriola
+#baseballczar
+admin@baseballczar.com 
+
+for questions contact me above.
+
+
+This sim produces a text playback of a baseballgame. There are no live gpx.
+
+Ideally I would like to use this sim as a starting point to migrate to a full UI gpx game.
+
+
+Known Bugs as of Aug 13, 2011
+==============
+Sim will go into a continuous loop if all Pitching Positions OR Lineup Positions are not set. Other games will not be played. But If the said positions are set while the Sim is running the app will kick in and play the game.
+
+Saves:
+There are times when a pitcher should get a save, has entered in a save situation, and is not credited.
+
+Base Runners:
+Situation with runners at 1st & 2nd, less than 2 outs. Ground ball to the shortstop, makes the play to first. Runners do not advance. 
+
+Another reoccurring baserunning score issue where a runner does not score for an unknown reason.
+
+
+
+
